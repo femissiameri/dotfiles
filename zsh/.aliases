@@ -1,0 +1,15 @@
+#!/bin/bash
+
+alias la='ls -al'
+
+alias df='df -h'
+alias free='free -h'
+alias cat='bat'
+
+alias rm='trash'
+alias rmdir='trash'
+alias zup='source ~/.zshrc'
+
+alias upp='sudo pacman -Syuu'
+alias syncp='sudo pacman -Syyuu'
+alias instp='sudo pacman -S'
