@@ -1,6 +1,6 @@
 set nocompatible             					"We want the latest Vim settings/options.
 
-so $HOME/.plugins.vim						"Load plugins from that file.
+so $HOME/.vim/plugins.vim					"Load plugins from that file.
 
 
 
